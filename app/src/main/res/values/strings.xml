@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Humori</string>
+    <string name="feliz">Feliz</string>
+    <string name="medio">Medio</string>
+    <string name="triste">Triste</string>
+    <string name="pergunta">Qual o seu humor agora?</string>
+    <string name="logo">Logo Humori</string>
+    <string name="img_charada">Charada</string>
+    <string name="charada_padrao">O que é, o que é:\n\nSempre desce e nunca sobe?</string>
+    <string name="resposta_padrao">A chuva.</string>
+    <string name="ver_resposta">Botao ver resposta</string>
+    <string name="entediado">Entediado</string>
+    <string name="btn_feliz">Botão Feliz</string>
+    <string name="btn_triste">Botão triste</string>
+    <string name="curiosidades">Aqui estão as curiosidades de hoje para te entreter, compartilhe com os amigos:</string>
+    <string name="tedio">Tedio</string>
+    <string name="animais">Animais</string>
+    <string name="ciencia">Ciência</string>
+    <string name="historia">HIstória</string>
+    <string name="profissionais">Profissionais</string>
+    <string name="incentivo">Incentivo do dia</string>
+    <string name="respiracao">Respiração 4 7 8</string>
+    <string name="tecnica">Esta técnica pode fazer você se sentir melhor, repita quantas vezes for necessário, instruções:</string>
+    <string name="instrucao1">1 - Inspire por 4 segundos.</string>
+    <string name="instrucao2">2 - Segure por 7 segundos.</string>
+    <string name="instrucao3">3 - Expire por 8 segundos.</string>
+    <string name="iniciar">Iniciar Respiração</string>
+    <string name="number">Numeração</string>
+</resources>
