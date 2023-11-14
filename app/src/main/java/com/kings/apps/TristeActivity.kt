@@ -30,7 +30,7 @@ class TristeActivity : AppCompatActivity() {
         setMotivacional()
     }
 
-    fun setMotivacional() {
+    private fun setMotivacional() {
         val mot = Motivacional()
         val array = mot.getMotivacional()
 
